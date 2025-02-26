@@ -6,5 +6,5 @@
 + The Jungles of Randomness: A Mathematical Safari Hardcover – January 1, 1997
 
 # Suggested movies
-+ I am legend
++ Io sono leggenda 
 + Matrix
