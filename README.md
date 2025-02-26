@@ -5,6 +5,7 @@
 + Il senso delle cose, Richard Feynman
 + The Jungles of Randomness: A Mathematical Safari Hardcover – January 1, 1997
 + Gödel, Escher, Bach. Douglas R. Hofstadter, G. Trautteur
++ Il gene della matematica Keith Devlin
 
 # Suggested movies
 + Io sono leggenda 
